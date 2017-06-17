@@ -44,7 +44,7 @@ Running `pc.punchOut("0xf3da29ea01acbb909640bbb34dc90fbda3770d08", 1490196680)` 
 
 # Development
 
-* Install [truffle](https://truffle.readthedocs.io/en/latest/) and [testrpc](https://github.com/ethereumjs/testrpc)
+* Install [truffle](http://truffleframework.com/) and [testrpc](https://github.com/ethereumjs/testrpc)
 * Open Terminal and run `testrpc` in one console
 * Open another console and:
     * Compile the code
